@@ -3,8 +3,8 @@ name: Neustreet
 on:
   push:
     branches:
-      - "usman"
-      - "!master"
+      - 'usman'
+      - '!master'
 jobs:
   
   build:
