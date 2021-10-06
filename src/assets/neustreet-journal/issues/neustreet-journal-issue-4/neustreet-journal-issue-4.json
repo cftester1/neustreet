@@ -1,0 +1,300 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-issue-4",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #4"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-4",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "The World's First Metaverse Global HQ, Punks Comics, and Jay-Z's NFT Legal Dispute"
+                    }
+                }
+            ]
+        },         
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-4-punks-comics-nfts",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "🕵️‍♂️ The Punks Comics NFTs: An Ambitious New Business Model"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx1", "type": "plain", "weight": "regular", "value": "Punks Comics is one of the most ambitious and creative NFT projects we have ever seen. The company Pixel Vault, LLC has created a comic book series with characters based on 16 individual CryptoPunks art pieces. As you might remember, CryptoPunks is the oldest and most valuable NFT art project, with a single CryptoPunk recently being sold at a Sotheby's auction for $11.8 Million."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx2", "type": "plain", "value": "The story of Punks Comics follows a character named Beanie on his search for the \"Lost Robbies,\" a set of crypto art pieces loosely based on actual gifts given at the Christie's Tech Summit in London in 2018. Beanie and the other characters are fleshed out remixes of individual CryptoPunks, with respective backstories, personalities, and physical traits."}
+                    ]
+                },                
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/3b4c16e1-54ef-462e-a272-5b72be4cc92a/1433x599.png"
+                    }
+                },              
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx3", "type": "plain", "value": "Issue #1, \"The Hunt for The Lost Robbies,\" was launched on May 10, 2021 and a limited edition 10,000 NFTs were minted as digital versions of the comic. For those lucky enough to purchase a single issue, each priced at 0.2 ETH, they would receive A) a digital NFT version of the comic, B) a physical edition shipped to your address, and C) a chance to receive 27 random NFT art pieces from artists associated with the project. It was also reported by the team in Discord that holders of the first 5,000 of the 10,000 first edition NFTs (by mint number) will receive a free second edition, when released."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx4", "type": "plain", "value": "In July, everyone who bought a Punks Comic NFT will be given two options - the opportunity to"},
+                        { "id": "nji4atx5", "type": "plain", "weight": "bold","value": "Stake"},
+                        { "id": "nji4atx6", "type": "plain", "value": "or"},
+                        { "id": "nji4atx7", "type": "plain", "weight": "bold", "value": "Burn"},
+                        { "id": "nji4atx8", "type": "plain", "value": "Burn their NFT. What does that mean?"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx9", "type": "plain", "weight": "bold","value": "* Staking"},
+                        { "id": "nji4atx10", "type": "plain", "value": "in this context means you agree to lock up your Punks Comic NFT for a period of up to 24 months. It is outside of your reach and you cannot sell the NFT. In return, you receive $PUNKS tokens that give you fractional ownership of the 16 CryptoPunks from the story. The tokens distributed to these stakers over the 24 month period amounts to 50% of the total maximum supply of $PUNKS tokens, which equals 50% ownership of the 16 CryptoPunks."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx11", "type": "plain", "weight": "bold","value": "* Burning"},
+                        { "id": "nji4atx12", "type": "plain", "value": "the NFT means sending it to an Ethereum address that no one has access to, removing the NFT from circulation forever. In return, the burner receives Pixel Vault Founders Tokens ($PVFT), which represent fractional ownership of the 'Founders Vault.' This Founders Vault contains high value NFT assets and art pieces, 25% of the total supply of $PUNKS tokens, and also gives people governance rights in a decentralised autonomous organisation (DAO) to help steer the direction of the project."}
+                    ]
+                },                                 
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx13", "type": "plain", "value": "Each of these options--stake or burn--give people a long-term incentive to be invested in Punks Comics. People can have fractional ownership in the highly valuable NFT asset of the 16 CryptoPunks (via staking their NFT for $PUNKS tokens) or the Founder's Vault assets (via burning the NFT for $PVFT tokens), which also provides voting power to decide the future of the project."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/c2d73fdb-de9c-480c-ac52-abdb54d9aa3e/896x975.png"
+                    }
+                },                
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx14", "type": "plain", "value": "Let's draw an analogy of how this could work in other situations. Imagine a Mickey Mouse comic book was launched today and the first 10,000 people to buy the comic received $MOUSE tokens, which entitle you to a percentage of royalties, give you a vote on the direction of the franchise and also grant you an ownership percentage of all Mickey Mouse artwork and merchandise."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx15", "type": "plain", "value": "Wouldn't that be cool?"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx16", "type": "plain", "value": "Punks Comics may be a relatively obscure NFT art project created by a small team in LA, but their idea scratches the surface for an entirely new type of interaction between fans and franchises. This model could feasibly work for sports teams, sneaker brands, musicians, and more. And when it inevitably does happen, you'll definitely hear us at Neustreet talking about it."}
+                    ]
+                }                             
+            ]
+        }, 
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-4-latest-news",             
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectibles News"                       
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  {
+                        "id": "journal-issue-4-rtfkt-sneakers-and-nfts",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "1 - RTFKT Sneakers and NFTs at 'Not in Paris' "                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx17", "type": "plain", "value": "Here at Neustreet, we are big fans of the digital design collective RTFKT Studios. This week, they teamed up with Highsnobiety for their bi-annual multimedia fashion/art/music event called 'Not in Paris,' a series of exhibitions coinciding with Paris Men's Fashion Week."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx18", "type": "plain", "value": "There was a narrative attached to RTFKT's art experience, a story about a dystopian future where Paris has been invaded by aliens. The heroes of Paris fighting back against the aliens are skaters who use hoverboards to lead the resistance. RTFKT created two \"Alien\" digital sneakers, 75 NFTs of an Eiffel Tower-inspired alien structure called \"Tour Alien,\" a special sneaker for the virtual world Decentraland, and eight hoverboards uniquely designed by digital artists."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        { "id": "nji4atx19", "type": "plain", "value": "RTFKT hosted a 24-hour auction on SuperRare on June 21 for the eight hoverboards. Each winner of a hoverboard also received a 'Looking Glass' portrait screen to display the digital art and a pair of sneakers. There was also a physical element to the event--Highsnobiety held a physical popup shop in Paris where you could see the RTFKT NFTs, buy physical merchandise, and use Snapchat AR filters built in collaboration with RTFKT."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx20", "type": "plain", "value": "The creative interplay of physical and digital is stunning. We look forward to seeing more experiences like this."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/194f6a7f-9b2a-4bea-8009-8742eafb4330/2000x1000.jpeg"
+                    }
+                }                                                                                        
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-4-solesavy-raises-12-5-million",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "2 - SoleSavy Raises $12.5 Million Series A Funding Round"                    
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [                                       
+                        { "id": "nji4atl22", "type": "plain", "value": "The Vancouver based company SoleSavy has just announced their $12.5 Million Series A funding round - led by investors including Bedrock Capital, Diplo, and Dapper Labs CEO Roham Gharegozlou. SoleSavy is a curated paid community for sneaker enthusiasts built around exclusive Slack channels with different layers of premium features. This new fundraise comes just six months after they raised $2 Million. The company has said their user base tripled since the end of last year. Based on previous official statements about their members, we can estimate their user base to be around 12,000 across North America."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl25", "type": "plain", "value": "The company currently makes money from member subscriptions and affiliate revenue. If you read the official blog post from one of SoleSavy's co-founders announcing the raise, you can learn a lot about the company's unique philosophy. They characterise the biggest problems of the sneaker industry as excessive reselling, botting, a lack of transparency, and the increasingly modern definition of sneakers as an 'asset class.'"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl26", "type": "plain", "value": "In response to this, SoleSavy wants to eventually \"provide an alternative to platforms like StockX & Goat\" as a peer-to-peer marketplace. The company paints a more romantic vision of authentic sneaker culture as clear counter-positioning against bigger sneaker companies. With this new round of funding, it's time for them to execute on the next stage of their vision."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-4-rarible-raises-14-million",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "3 - Rarible Raises $14 Million for NFT Marketplace"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl30", "type": "plain", "value": "NFT marketplace Rarible has announced a $14.2 Million funding round from Venrock Capital, Coinfund and 01 Advisors, which comes just a few months after they raised a $1.75 Million seed round. The Rarible platform launched in 2020 and has since processed $150 Million in sales over the last twelve months, which the company describes as a 3000x YoY increase. In addition to selling digital collectibles, Rarible has also launched their own RARI token, which rewards creators and collectors who actively participate in their platform."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl40", "type": "plain", "value": "The landscape of NFT marketplaces is very competitive. Over the last six months alone, competitors like OpenSea, SuperRare, and Bitski have also raised sizable rounds of funding. Differentiation will become increasingly important. Rarible has also announced a new partnership with Flow blockchain, which was created by Dapper Labs and is currently used as the underlying technology behind NBA Top Shot. Right now, Rarible has lower volume than the market leader OpenSea. By partnering with Flow (and by association, NBA Top Shot), Rarible might be able to unlock a strategic advantage."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-4-jay-z-dame-dash-rock-a-fella-dispute",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "4 - Jay-Z, Dame Dash, and Roc-A-Fella Clash Over NFT Legal Dispute"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl44", "type": "plain", "value": "Roc-A-Fella Records is a legendary hip hop record label co-founded by Shawn \"Jay-Z\" Carter, Damon \"Dame\" Dash, and Kareem \"Biggs\" Burke in 1995. Oddly enough, the co-founders are now tangled in a lawsuit regarding the sale of an NFT. Roc-A-Fella alleges that Dame Dash was about to sell an NFT of Jay-Z's 1996 debut album Reasonable Doubt on the NFT platform SuperFarm. An online auction of the album was scheduled to take place on June 23, but was then cancelled since Roc-A-Fella took legal action against Dash. Roc-A-Fella pointed out that the auction claimed to completely transfer the album's copyright and all future revenue generated by the album from Damon Dash to the auction winner. The critical line from Roc-A-Fella's legal filing was \"Dash can't sell what he doesn't own.\""}
+                    ]                    
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/4c3d1bc8-5567-464e-bac2-6538b0a40dd2/1200x628.jpeg"
+                    }
+                },                
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl47", "type": "plain", "value": "The record label owns all copyright to Reasonable Doubt and claims Dash has no right to advertise or sell the album as an NFT. In rebuttal, Dash said the marketing language of the auction was different from the reality of the auction. Dash says that the auction was to sell off his ownership share in Roc-A-Fella records. Dame's unclear definition of the NFT sale and the auction's wording of the event is what's causing confusion and lawsuits, with the record label suing Dash for portraying himself as the owner of the copyright for Reasonable Doubt."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl52", "type": "plain", "value": "It's a weird, awkward situation and there's not much NFT case law. We can expect the next few years to include many landmark court cases that help decide the legal specifics of how NFTs work. The idea of ownership can be inherently confusing across many industries and assets--especially within the entertainment industry. However, this won't discourage these hip hop legends from pursuing NFTs. Just a couple of months ago, Jay-Z invested in the NFT platform Bitski."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-4-topps-reveals-q1-2021-results",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "5 - Topps Reveals Q1 2021 Financial Results"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl59", "type": "plain", "value": "Topps is one of the most blue-chip sports collectible companies in the world, famous for having dominated the baseball card market for decades through an exclusive contract with the MLB. As we review one of the craziest growth periods in the history of trading cards, Topps has just released their Q1 2021 financial results."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl62", "type": "plain", "value": "The company has seen a 55% increase in net sales, a positive outcome off the back of a significant growth trend in trading card sales. Topps pointed out the \"notable outperformance\" in sports & entertainment, a segment of their business that grew 105% YoY. For a company founded in 1938, Topps needs to embrace the modern challenges of the modern card market. It's notable that Topps released their first collection of NFTs a few months ago and is also in the process of going public through a SPAC valuing the company at $1.3 Billion."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atl65", "type": "plain", "value": "How will they continue to grow in 2021? Whatever ends up happening to the broader card market should be reflected in Topps' future financial results."}
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

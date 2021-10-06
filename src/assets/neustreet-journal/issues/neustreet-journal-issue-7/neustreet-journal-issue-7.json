@@ -1,0 +1,415 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-7-issue",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #7"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-7",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "Damien Hirst's NFT Art Project, Space Jam Skins and NFTs, and a $1.5 Million Super Mario 64 Game"
+                    }
+                }
+            ]
+        },       
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-7-space-jam-fortnite",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🏀 Space Jam Fortnite Skins and NFTs for LeBron James"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx1", "type": "plain", "weight": "regular", "value": "This week, the film Space Jam: A New Legacy starring LeBron James was released. A tsunami of merchandise and collaborations has always been a core part of the film's marketing plan, which includes more than"},
+                        { "id": "nji7atx2", "type": "link", "url": "https://www.warnerbros.com/news/articles/2021/05/20/space-jam-new-legacy-launch-summer-merch-collection", "value": "200 brand partnerships"},
+                        { "id": "nji7atx3", "type": "plain", "value": "spanning toys, apparel,"},
+                        { "id": "nji7atx4", "type": "link", "url": "https://people.com/food/mcdonalds-reveals-space-jam-a-new-legacy-happy-meals/", "value": "Mcdonald's meals"},
+                        { "id": "nji7atx5", "type": "plain", "value": ", and more. The original Space Jam film from 1996 starred Michael Jordan and grossed over $200 Million at the Box Office but sold over $1 Billion in merchandise."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx6", "type": "plain", "value": "With the new Space Jam film, Warner Bros. has created special virtual merchandise and experiences."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx8", "type": "plain", "value": "A"},
+                        { "id": "nji7atx9", "type": "link", "url": "https://www.theverge.com/2021/7/12/22570612/lebron-james-fortnite-skin-release-date", "value": "LeBron James 'skin'"},
+                        { "id": "nji7atx10", "type": "plain", "value": "is now playable on the popular video game Fortnite, making LeBron the very first NBA player to have a Fortnite skin. People can now buy a LeBron James bundle in the Fortnite item shop, which comes with several different skins and accessories. One of the skin variations is of LeBron wearing the 'Tune Squad' outfit from the new Space Jam film, along with the new Nike LeBron 19s being released alongside the film."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/b6d0c431-4d87-495f-aee0-4bc5eb138e93/1072x1002.png"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx11", "type": "plain", "value": "On the same day as the launch of the Fortnite skin, the new NFT marketplace"},
+                        { "id": "nji7atx12", "type": "link", "url": "https://niftys.com/", "value": "Niftys.com"},
+                        { "id": "nji7atx13", "type": "plain", "value": "also launched to coincide with the Space Jam film. Backed by Mark Cuban, Dapper Labs, and Samsung Next, Niftys.com released"},
+                        { "id": "nji7atx14", "type": "link", "url": "https://www.theverge.com/2021/7/12/22570612/lebron-james-fortnite-skin-release-date", "value": "91,000 Space Jam themed NFT digital collectibles"},
+                        { "id": "nji7atx15", "type": "plain", "value": ". Everyone who registered on the"},
+                        { "id": "nji7atx16", "type": "link", "url": "https://niftys.com/", "value": "Nifty's website"},
+                        { "id": "nji7atx17", "type": "plain", "value": "was able to receive one of those NFTs for free, which then very quickly sold out."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/7d06662f-22e9-4c62-8dd2-cf57e548d2fc/1876x1154.png"
+                    }
+                },                
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx18", "type": "plain", "value": "At this point, LeBron James has become such a cultural commercial force across several categories of collectibles. Prior to Space Jam, LeBron had already released several sneakers, trading cards, and NFTs through NBA Top Shot. Now, to accompany starring in one of the biggest feature films of the year, LeBron has his own Fortnite virtual skins and Space Jam themed NFTs. More than anyone else, LeBron symbolises the convergence of entertainment, culture, and commerce. He is the poster boy for the future we envision at Neustreet."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atx19", "type": "plain", "value": "There's probably a market for skins based on every single athlete or entertainer, as there will likely be an NFT strategy for every single team or brand. The Verge referred to NFTs as \""},
+                        { "id": "nji7atx20", "type": "plain", "style": "italic", "value": "On the same day as the launch of the Fortnite skin, the new NFT marketplace"},
+                        { "id": "nji7atx21", "type": "plain", "value": "and we wholeheartedly agree. Look out for our own Neustreet NFTs that will be dropping soon. As newsletter subscribers, you will be the first to know...🔥"}
+                    ]
+                }                
+            ]
+        }, 
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-latest-news",             
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectibles News"                       
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-la-dodgers-mlb-nft-with-candy-digital",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "1 - LA Dodgers' MLB NFT with Candy Digital"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl0", "type": "plain", "value": "The Los Angeles Dodgers are"},
+                        { "id": "nji7atl1", "type": "link", "url": "https://www.bitski.com/candy/", "value": "auctioning off a 2020 World Series Ring"},
+                        { "id": "nji7atl2", "type": "plain", "value": "in the form of an NFT, in partnership with Candy Digital, one of the MLB's official NFT partners. The main item being auctioned off is a single unique package that includes a digital NFT of the ring, a physical version of the ring, and a VIP first pitch experience at Dodgers Stadium. The NFTs were created in partnership with RTFKT studios and bidding on the main item ended yesterday with a winning bid of $95,000. There was also a second digital collectible of the Dodgers World Series Medal, available to everyone for the price of $20.20. 1687 editions of the second NFT were sold."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl13", "type": "plain", "value": "This makes the Los Angeles Dodgers the very first MLB team in history to auction off an NFT. People can literally own both a physical and digital version of a World Series ring, the biggest prize in baseball. The LA Dodgers won the 2020 World Series for the first time in 32 years with a 4-2 series win over the Tampa Bay Rays, a historical moment for the team. Proceeds from the NFT sale will benefit the Dodgers foundation."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        { "id": "nji7atl14", "type": "link", "url": "https://candy.com/", "value": "Candy Digital"},
+                        { "id": "nji7atl15", "type": "plain", "value": "is a joint venture between thought leaders - Gary Vaynerchuk, Michael Rubin of Fanatics and Mike Novogratz of Galaxy Digital. The team put together the MLB's first NFT sale last month, an NFT of Lou Gehrig. That NFT was"},
+                        { "id": "nji7atl16", "type": "link", "url": "https://www.forbes.com/sites/kenrapoza/2021/07/12/mlb-goes-all-in-on-nfts-with-lou-gehrig-now-la-dodgers-art-why-is-this-still-a-thing/?sh=c5683af606d2", "value": "sold on July 4th to Tyler Winklevoss"},
+                        { "id": "nji7atl17", "type": "plain", "value": ", co-founder of cryptocurrency exchange Gemini, for $70,444. Candy Digital is expected to announce"},
+                        { "id": "nji7atl18", "type": "link", "url": "https://www.mlb.com/press-release/press-release-candy-digital-mlb-dodgers-2021-world-series-ring", "value": "many more team collaborations"},
+                        { "id": "nji7atl19", "type": "plain", "value": "and NFT projects over the next few months, so we may start getting used to seeing baseball NFTs."}
+
+                    ]                    
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/6d74af71-fa34-4b1d-ad91-cdea8ef988da/2718x1110.png"
+                    }
+                }                                                                         
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-jeff-staple-shoe-rental-business-kyx-world",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "2 - Jeff Staple's Shoe Rental Business KYX World"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl20", "type": "plain", "value": "Legendary sneaker designer"},
+                        { "id": "nji7atl21", "type": "link", "url": "https://www.insidehook.com/feature/style/sneakerhead-jeff-staple-kyx-world", "value": "Jeff Staple has a new company"},
+                        { "id": "nji7atl22", "type": "plain", "value": "hat's bringing a refreshing take on the sneaker industry. He is the creative director of new company"},
+                        { "id": "nji7atl23", "type": "link", "url": "https://www.kyx.world/", "value": "KYX World"},
+                        { "id": "nji7atl24", "type": "plain", "value": ", a sneaker subscription service. For a monthly fee, people get access to a library of over 275 highly sought after shoes. You can rent a shoe for a month and then decide to keep them, buy them, or swap them for a new pair the following month. The cheapest subscription plan is $49/month to rent one shoe and the most expensive subscription is $299/month to rent four shoes simultaneously. Customers should expect this to be a much cheaper option than buying all of these shoes individually."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl25", "type": "plain", "value": "It's a daring bet that is contingent on an insight around consumer behavior--that people wear sneakers for reasons beyond ownership. There are many reasons someone wants to own a pair of shoes. One of the biggest motivations is the status symbol that comes from wearing a particular pair of sneakers, maybe for a special occasion. An adjacent company that does this well is Rent the Runway, which allows people to rent designer fashion apparel."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl26", "type": "plain", "value": "Modern sneaker culture faces many criticisms. Sneakers have become more sought after, which makes it more difficult for the average person to get a pair of sneakers - either because they are sold out or too expensive. KYX World focuses on sneakers that are difficult to obtain, so the company could be a solution for problems related to accessing specific sneakers. The curated sneaker community SoleSavy, which recently raised a"},
+                        { "id": "nji7atl27", "type": "link", "url": "https://techcrunch.com/2021/06/21/sneaker-community-startup-solesavy-raises-12-5-million-series-a-to-build-an-end-to-end-sneakersphere/", "value": "$12.5 Million"},
+                        { "id": "nji7atl28", "type": "plain", "value": "Series A round, is addressing a similar problem."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl29", "type": "plain", "value": "There are a variety of complex stakeholders and issues in the sneaker industry. Could there be room for sneaker rental? Let's see."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-record-super-mario-64-video-game-sale",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "3 - The Record Super Mario 64 Video Game Sale"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl30", "type": "plain", "value": "Last Sunday, Heritage Auctions sold a sealed copy of the Super Mario 64 video game for the Nintendo 64 for"},
+                        { "id": "nji7atl31", "type": "link", "url": "https://www.theverge.com/2021/7/11/22572688/super-mario-64-most-expensive-video-game-ever-heritage-auctions", "value": "$1.5 Million"},
+                        { "id": "nji7atl32", "type": "plain", "style": "italic", "value": "The Legend of Zelda"},
+                        { "id": "nji7atl33", "type": "plain", "value": "for the NES was sold for $870,000. These are all popular legendary games that were commercially successful when released and have maintained their cultural relevance today. Super Mario 64 came out in 1996 and The Legend of Zelda came out in 1986. The characters of both the Super Mario and Zelda franchises have expanded into merchandise, films, and more."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl34", "type": "plain", "value": "The history of record breaking video game auctions seems to have all happened very recently. Just over a year ago on July 10, 2020, the record for the most expensive video game was a copy of"},
+                        { "id": "nji7atl35", "type": "plain", "style": "italic", "value": "Super Mario Bros."},
+                        { "id": "nji7atl36", "type": "plain", "value": "for $114,000. On November 23, 2020, a copy of"},
+                        { "id": "nji7atl37", "type": "plain", "style": "italic", "value": "Super Mario Bros. 3" },
+                        { "id": "nji7atl38", "type": "plain", "value": "fsold for $156,000. On April 2, 2021, a copy of Super Mario Bros. sold for $660,000 before the next record breaking sale of"},
+                        { "id": "nji7atl39", "type": "plain", "style": "italic", "value": "The Legend of Zelda"},
+                        { "id": "nji7atl40", "type": "plain", "value": ". Many of these items are rare variants of the game cartridge from the earliest production runs."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl41", "type": "plain", "value": "Video games are another type of collectible that has been picking up steam in the broader collectiverse. This week,"},
+                        { "id": "nji7atl42", "type": "link", "url": "https://www.businesswire.com/news/home/20210714005598/en/Collectors-Universe-Expands-Into-Video-Game-Authentication-Grading-with-Acquisition-of-Wata-Games", "value": "Collectors Universe acquired Wata"},
+                        { "id": "nji7atl43", "type": "plain", "value": ", the premier grading company for video games. Most of these record breaking video games sold have been graded by Wata, who are essentially the 'PSA for video games.' Collectors Universe now owns grading company PSA, auction house Goldin Auctions, and Wata. It's the company's first acquisition to expand into the video game collectible space and we can expect interest to grow."}
+                    ]
+                }, 
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/8da7c90a-5119-42cc-88da-4db8b36b180e/1072x1058.png"
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-asics-launches-nfts-to-support-digital-artists",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "4 - ASICS Launches NFTs to Support Digital Artists"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl44", "type": "plain", "value": "Japanese footwear brand ASICS is launching a set of 189 NFTs called the"},
+                        { "id": "nji7atl45", "type": "link", "url": "https://nft.asics.com/", "value": "ASICS Sunrise Red NFT Collection"},
+                        { "id": "nji7atl46", "type": "plain", "value": ". These 189 NFTs represent nine different ASICS shoe designs including GEL-LYTE III and Metaracer. The 'Sunrise Red' is a reference to Japanese heritage and the dawning of a new day. Each of the nine designs are being auctioned in a limited edition of 20 NFTs, with an accompanying special unique gold edition NFT. By buying the NFT, you'll receive a digital texture, a physical version of the shoe and if you manage to buy the gold edition, you'll receive another ASICS NFT in the future."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl47", "type": "plain", "value": "The auction takes place on OpenSea from July 15 to July 19 and all proceeds go to the"},
+                        { "id": "nji7atl48", "type": "link", "url": "https://nft.asics.com/faq/", "value": "ASICS Digital Goods Artist-in-Residence Program"},
+                        { "id": "nji7atl49", "type": "plain", "value": ", a platform for digital artists to contribute to ASICS future NFT drops. Digital artists interested in participating in the program can apply on the NFT website to build beautiful digital products with the brand. Let's see whether this new investment in NFT-inspired digital design could lead to new innovation in physical sneaker design. In the press release, ASICS refers to this as \""},
+                        { "id": "nji7atl50", "type": "plain", "style": "italic", "value": "the world's first digital shoe release from a major sporting goods company." },
+                        { "id": "nji7atl51", "type": "plain", "value": "\""}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl52", "type": "plain", "value": "We're starting to see more major footwear and fashion brands launch NFTs. A few weeks ago, NBA player"},
+                        { "id": "nji7atl53", "type": "link", "url": "https://us.dolcegabbana.com/en/redeem/", "value": "PJ Tucker worked with Dolce & Gabbana"},
+                        { "id": "nji7atl54", "type": "plain", "value": "to launch a sneaker collection that also included NFTs."},
+                        { "id": "nji7atl55", "type": "link", "url": "https://rtfkt.com/", "value": "RTFKT studios"},
+                        { "id": "nji7atl56", "type": "plain", "value": "has been world pioneers in virtual sneakers and Nike patented"},
+                        { "id": "nji7atl57", "type": "link", "url": "https://thenextweb.com/news/nike-blockchain-sneakers-cryptokick-patent", "value": "'Cryptokicks'"},
+                        { "id": "nji7atl58", "type": "plain", "value": "at the end of last year. More virtual sneakers are definitely on the way."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-damian-hirst-the-currency-nft-experiment",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "5 - Damian Hirst's 'The Currency' NFT Experiment"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl59", "type": "plain", "value": "Damien Hirst, one of the world's most famous artists, is creating a new NFT project called"},
+                        { "id": "nji7atl60", "type": "link", "url": "https://www.heni.com/", "value": "'The Currency.'"},
+                        { "id": "nji7atl61", "type": "plain", "value": "In 2016, Hirst created a piece of conceptual art that was composed of 10,000 different art pieces in the form of multicolored dots. The 10,000 pieces are all unique, but made from the same material, are the same size, and look pretty identical at first glance. This was a conscious decision by Hirst. He recently described art as a 'currency,' which can be seen as a provocative statement questioning the creative and financial value of art. His initial project could have ended in 2016 but then Damian Hirst discovered NFTs."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl62", "type": "plain", "value": "Hirst is now selling these 10,000 individual art pieces for $2,000 each, which can be bought as a digital version attached to an accompanying NFT. Two months after the NFTs are delivered in July, people will have two choices: 1) Redeem a physical version of the art in exchange for destroying the NFT or 2) Keep the NFT and in exchange Hirst will destroy the physical version of the art. Out of these 10,000 pieces of art from Damien Hirst, we will soon have an unpredictable mixture of physical and digital versions."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl63", "type": "plain", "value": "These pieces (whether physical or NFT) can conceptually be used as a 'currency' - a statement that may seem offensive to people with romantic views about the industry, but also a realistic statement for people who view art as an asset class. People interested in the project can apply to buy the pieces on"},
+                        { "id": "nji7atl64", "type": "link", "url": "https://www.heni.com/", "value": "Heni"},
+                        { "id": "nji7atl65", "type": "plain", "value": "and will be notified next week if they are successful."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl66", "type": "plain", "value": "How many people will keep the digital NFT version? How many people will keep the physical version? Which one will command a higher market value? At Neustreet, we talk a lot about physical and digital worlds coming together. Damien Hirst's 'The Currency' will be the biggest worldwide experiment in seeing how the market values physical vs. virtual items. The results will help predict where we will go as a society. And with one of the world's most influential artists leading this 'experiment,' this may lead to more mainstream NFT acceptance."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/351c1f0a-707c-4c05-b4f1-33a176d889b6/1937x1291.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-movements-events-and-more",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "⚽️ Movements, Events, and More: The Euros and The State of Soccer Cards"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl67", "type": "plain", "value": "Last weekend, two major soccer tournaments concluded--Copa America and the Euros. These were the biggest international soccer tournaments for South America and Europe. In the Copa America final, Argentina defeated Brazil and in the Euros final, Italy defeated England. Soccer still has a long way to go in America, but the Euros in particular represent new interest in the sport."}
+                    ]                    
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/9ee27db3-c9c0-409b-8ad1-7b2a3d9650c5/1170x746.png"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl68", "type": "plain", "value": "On June 30, 2021, Panini launched their"},
+                        { "id": "nji7atl69", "type": "link", "url": "https://www.cardboardconnection.com/2021-panini-mosaic-uefa-euro-2020-soccer-cards", "value": "Panini Mosaic UEFA Euro 202 Cards"},
+                        { "id": "nji7atl70", "type": "plain", "value": ", the official trading cards for the Euros. Grading company Beckett described a \""},
+                        { "id": "nji7atl71", "type": "link", "style": "italic", "url": "https://www.beckett.com/news/soccer-slabs-see-surge-in-price-and-popularity/", "value": "surge in price and popularity"},
+                        { "id": "nji7atl72", "type": "plain", "value": "\" of soccer cards in the lead up to the Euros, pointing out star players Cristiano Ronaldo and Kylian Mbappe as having two of the biggest increases in their card prices. Considering that neither Ronaldo's Portugal national team or Mbappe's French national team made it to the finals, perhaps we can expect increases in card prices from Italian or English players. As reported by"},
+                        { "id": "nji7atl73", "type": "link", "style": "italic", "url": "", "value": "Sports Collectors Daily"},
+                        { "id": "nji7atl74", "type": "plain", "value": ", eBay sold $871 Million worth of sports cards in Q1 2021, with soccer being the fastest growing sports category with 1588% YoY growth."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl75", "type": "plain", "value": "There's an"},
+                        { "id": "nji7atl76", "type": "link", "url": "https://markets.businessinsider.com/currencies/news/alex-rodriguez-spac-panini-sticker-brand-merger-3-billion-2021-7", "value": "alleged merger"},
+                        { "id": "nji7atl77", "type": "plain", "value": "happening between former baseball player Alex Rodriguez's SPAC and Italian collectible company Panini, valuing Panini at $3 Billion. Panini is the world's premier manufacturer of soccer trading cards and stickers. Considering the growth of soccer in the US, Panini is best positioned to take advantage of this trend. In Europe, collecting soccer stickers is generally more popular than soccer cards, but collectors around the rest of the world prefer cards over stickers."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl78", "type": "plain", "value": "Along with Panini, Topps is the other card manufacturer that owns the majority of soccer rights. The rights for different soccer leagues in England, Germany, France, Italy, and Spain are split between the two companies Panini and Topps. For major international tournaments, Panini owns the rights to the World Cup and the Euros while Topps owns the rights for the Champions League. There can also be variations for specific players and teams."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl79", "type": "plain", "value": "While physical soccer cards and stickers are growing, so are their digital equivalents. The French company SoRare was founded in 2018 and hosts a blockchain-based fantasy soccer platform that allows people to buy, sell, and trade football themed NFTs. The company has been acquiring the rights to create digital cards of different European teams and players. Most recently, SoRare is reported to be receiving a"},
+                        { "id": "nji7atl80", "type": "link", "url": "https://www.businessinsider.com/sorare-nft-softbank-soccer-funding-2021-7", "value": "$530 Million funding round"},
+                        { "id": "nji7atl81", "type": "plain", "value": "from Softbank, valuing the company at $3.8 Billion. At that alleged valuation, the three-year-old Sorare may be worth more than the sixty-year-old Panini. Interestingly, a large chunk of Sorare's revenue"},
+                        { "id": "nji7atl82", "type": "link", "url": "https://www.forbes.com/sites/henryflynn/2021/06/30/spanish-soccer-nfts-for-all-say-2-platforms-as-wealthy-collectors-take-top-tokens/", "value": "comes from the US"},
+                        { "id": "nji7atl83", "type": "plain", "value": "- the country best known for trading card culture."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl84", "type": "plain", "value": "In the aftermath of the Euors, all the main soccer leagues will soon be starting their new seasons. At an international level, the Qatar World Cup is coming in 2022, less than a year and a half from now. In 2026, the World Cup is being jointly hosted by the US, Canada, and Mexico."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji7atl85", "type": "plain", "value": "Looking at the big picture, it's an exciting time for soccer fans - whether you prefer physical cards or digital NFTs."}
+                    ]
+                }
+            ]
+        }
+    ]
+}

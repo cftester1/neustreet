@@ -1,0 +1,398 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-6-issue",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #6"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-6",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "FTX's Ambitious Sponsorships, $2.5 Billion in NFT Sales, and NIL Businesses for College Athletes"
+                    }
+                }
+            ]
+        },         
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-6-ftx-massive-push-into-sports-sponsorship",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🏟 FTX's Massive Push into Sports Sponsorship"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx1", "type": "plain", "weight": "regular", "value": "The cryptocurrency exchange FTX is quickly becoming one of the most well known sports sponsors in the world. At a time when cryptocurrency companies need to figure out how to go mainstream, FTX's unique marketing strategy is based around sports sponsorship."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx2", "type": "plain", "weight": "regular", "value": "Earlier this year, FTX acquired the naming rights to the Miami sports and entertainment arena that was previously named American Airlines arena. The deal is worth"},
+                        { "id": "nji6atx3", "type": "link", "url": "https://blockworks.co/ftx-inks-135m-sponsorship-deal-for-miami-heat-arena/", "value": "$135 Million"},
+                        { "id": "nji6atx4", "type": "plain", "value": "and gives FTX the naming rights for nineteen years. This new arena is now called FTX Arena."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/440a3d83-ec4e-4d1d-a095-9238d46e2cef/1280x960.jpeg"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx5", "type": "plain", "weight": "regular", "value": "FTX also signed the biggest ever esports sponsorship deal with the world's most valuable esports organization Team SoloMid (TSM). As a result of this"},
+                        { "id": "nji6atx6", "type": "link", "url": "https://www.sportspromedia.com/news/team-solomid-naming-rights-ftx-cryptocurrency-esports-league-of-legends", "value": "$210 Million partnership"},
+                        { "id": "nji6atx7", "type": "plain", "value": ", TSM has been renamed to TSM FTX. TSM plans to leverage the FTX partnership to expand globally and is also buying millions of dollars worth of FTX's FTT token to distribute to players."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx8", "type": "plain", "weight": "regular", "value": "FTX's latest partnership announcement was a"},
+                        { "id": "nji6atx9", "type": "link", "url": "https://www.prnewswire.com/news-releases/mlb-ftx-form-first-ever-global-sports-league-cryptocurrency-exchange-partnership-301318029.html", "value": "deal with the MLB"},
+                        { "id": "nji6atx10", "type": "plain", "value": "to become the first ever umpire patch partner. Every MLB umpire will soon be wearing an outfit with the FTX logo. In addition, FTX has worldwide marketing rights to the MLB, brand promotion at MLB events, and further details to be announced later this year."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx11", "type": "plain", "weight": "regular", "value": "And in perhaps the most 'Hollywood' move yet, FTX has signed a"},
+                        { "id": "nji6atx12", "type": "link", "url": "https://www.bloomberg.com/news/articles/2021-06-29/tom-brady-gisele-b-ndchen-take-equity-stake-in-crypto-firm-ftx", "value": "special partnership"},
+                        { "id": "nji6atx13", "type": "plain", "value": "with NFL quarterback Tom Brady and Brazilian supermodel Gisele Bündchen. The two will serve as brand ambassadors for FTX, receive FTT tokens, and focus on educating people about the crypto industry. They have become part owners in FTX and Gisele specifically plays a role leading FTX's environmental and social initiatives. Tom and Gisele are two of the most famous people in the world and this new deal with FTX is nothing short of a Hollywood blockbuster."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/b021ed9b-5d57-40e5-bf36-be3ca1eb22eb/1140x760.jpeg"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx14", "type": "plain", "weight": "regular", "value": "Tom Brady is also launching a new NFT company called"},
+                        { "id": "nji6atx15", "type": "link", "url": "https://edition.cnn.com/2021/04/06/tech/tom-brady-nft-autograph/index.html", "value": "Autograph"},
+                        { "id": "nji6atx16", "type": "plain", "value": ", which will benefit greatly from Tom's new relationship with FTX's founder Sam Bankman-Fried. "}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx17", "type": "plain", "weight": "regular", "value": "At this point, FTX is on track to spending something like a billion dollars in one year purely on sponsorship deals in the sports and entertainment industry. Another crypto company Crypto.com recently signed a"},
+                        { "id": "nji6atx18", "type": "link", "url": "https://www.sportspromedia.com/news/ufc-crypto-fight-kit-sponsorship-cryptocurrency-ufc-264-poirier-mcgregor", "value": "ten-year $175 Million agreement"},
+                        { "id": "nji6atx19", "type": "plain", "value": "to become the UFC's global fight kit partner and a five-year"},
+                        { "id": "nji6atx20", "type": "link", "url": "https://www.sportspromedia.com/news/f1-formula-one-crypto-sprint-race-partner-2021", "value": "$100 Million deal with Formula 1."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx21", "type": "plain", "weight": "regular", "value": "When crypto collides with sports and entertainment, new opportunities will be born. We're especially looking forward to seeing how this will help grow the world of NFTs."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-6-the-latest-in-collectible-news",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectible News"
+                    }
+                }
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-nike-releases-for-tokyo-olympics",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "1 - Nike's Releases for the Tokyo Olympics"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx22", "type": "plain", "value": "Nike will be releasing several new footwear and apparel products in the run up to the Tokyo Olympics. For the first time ever, skateboarding is going to be an official Olympic sport at the Tokyo games. Many skateboarders who will be competing are currently sponsored by Nike. Nike's SB Dunks have been tied to skateboarding culture for decades and the company is releasing several new shoe collabs specifically for the Olympics."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx23", "type": "plain", "value": "Nike plans to release two new pairs of the Gundam X Nike SB Dunks that pay tribute to the popular Japanese sci-fi franchise Gundam. Gundam is a huge franchise worth around $23 Billion with millions of fans globally who spend significant amounts of money on Gundam merchandise and figurines."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx24", "type": "plain", "value": "Other new Nike collabs include a pair from San Francisco skate shop FTC, who are releasing a pair of SB Dunks inspired by traditional Japanese bath houses. Nike is also designing SB Federation kits for the skateboarding teams from four countries--the US, Japan, France, and Brazil. These kits will pay homage to skate culture and feature different designs specific to each country."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/e0114db7-9e42-4be3-9e09-3c0983c8280c/1200x500.jpeg"
+                    }
+                }                                             
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-nft-sales-reach-2-5-billion-in-h1-2021",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "2 - NFT Sales Reach $2.5 Billion in H1 2021"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx25", "type": "plain", "value": "An article from Reuters this week outlines key data points from the NFT market. It paints a nuanced, but positive picture for the industry. Reuters reported that total NFT sales have reached $2.5 Billion in the first half of 2021. This is a huge 181x increase from the $13.7 Million in NFT sales from the first half of 2020. While NFTs were barely in public consciousness at the beginning of 2020, this growth is still impressive."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx26", "type": "plain", "value": "Monthly NFT sales on major marketplace OpenSea reached $150 Million in June and still show signs of further growth. The most expensive NFT sold is still the $69 Million Beeple digital art NFT sold at Christie's, followed by the $11.8 Million CryptoPunk sold at Sotheby's. Sports and collectibles are the most popular category of NFTs, beating out categories like art, utility, game, and metaverse. And there are an estimated 10,000 to 20,000 NFT buyers each week."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx27", "type": "plain", "value": "For some of the most popular NFT projects, some stats are in decline. Compared to the beginning of the year, there are fewer people regularly using the NBA Top Shot NFT marketplace and the average price of an NBA Top Shot has decreased. People have talked about overall NFT sales decreasing, but that shouldn't spell doom for the entire industry."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx28", "type": "plain", "value": "When you look at the number of regular NFT buyers in the world as an amount in the tens of thousands, you should realise that we are in the earliest days of NFT adoption. With NFT projects being announced by major franchises like Marvel, new projects will eventually bring new people into the space. The growth of NFTs should continue. "}
+                    ]
+                }                              
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-worlds-first-metaverse-eft-launched",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "3 - World's First Metaverse ETF Launched"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx29", "type": "plain", "value": "The concept of the 'metaverse' broadly refers to all the virtual worlds, virtual reality experiences, and augmented reality worlds that are being created by the internet. Some of the best known metaverse environments are in-game economies like Fortnite, Roblox, or Minecraft. Another example is our Neustreet global headquarters set in the blockchain metaverse platform Cryptovoxels. As we spend much more of our life online in virtual environments, the metaverse has become an increasingly hot topic regarded as the future of technology, retail, marketing, and much more."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx30", "type": "plain", "value": "Roundhill Investments has just launched a Metaverse exchange-traded fund (ETF), a basket of securities that allows people to get exposure to companies directly linked to the metaverse due to their specific products and services. To someone less familiar with the metaverse, the public company stocks picked by Roundhill Investments and futurist Matthew Ball should offer people a good metaverse investment opportunity. The Metaverse ETF is in the process of getting SEC approval and will be listed on the New York Stock Exchange."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx31", "type": "plain", "value": "The companies in the ETF include Tencent, Nvidia, Unity, Roblox, Alibaba, and Sony. They each represent different aspects of the metaverse as defined by Roundhill, such as hardware, virtual platforms, payment services, and content services. A specifically picked council of experts in technology, entertainment, and media helped determine the companies that should be included in the ETF. Making the metaverse 'investable' will surely bring the concept of the metaverse closer to reality."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/47826047-0a9b-4ab7-a515-6f830b83e890/1869x1052.png"
+                    }
+                }                              
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-collectech-m-and-a-golden-auctions",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "4 - Collectech M&A: Goldin Auctions, Certified Collectibles Group"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx32", "type": "plain", "value": "Hedge fund manager and New York Mets owner Steve Cohen has led an investment group to buy Goldin Auctions, one of the most well known auction houses in the collectibles industry. This investment group is Collectors Holdings, who already owns premier grading company PSA and also includes investors Nat Turner and Dan Sundheim."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx33", "type": "plain", "value": "While having the same parent company, PSA and Goldin Auctions will continue to operate independently. This makes Collectors Holdings the most 'vertically integrated' company in collectech, by owning both a major grading company and a major auction house."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx34", "type": "plain", "value": "In this same time period, Blackstone has acquired Certified Collectibles Group (CCG), which owns CSG grading and a handful of other collectible companies. The deal valued CCG at $500 Million and also involved several investors including Jay-Z, Andre Iguodala, Daryl Morey, and founder of Fanatics Michael Rubin. The investors plan to grow CCG, which has a strong grading asset in CSG that could compete against grading company PSA."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx35", "type": "plain", "value": "While it's obvious that collectibles and trading cards have benefited from an explosion in interest from casual collectors and retail investors, we're starting to see more and more institutional investors also make big moves in collectech."}
+                    ]
+                }                             
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-record-breaking-5-9-million-steph-curry-rookie-card",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "5 - A Record Breaking $5.9 Million Steph Curry Rookie Card"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx36", "type": "plain", "value": "A new record has been set for the highest ever price paid for a trading card. The card in question is the 2009 Stephen Curry National Treasures Rookie Logoman Autograph basketball card, which was recently sold for $5.9 Million."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx37", "type": "plain", "value": "The card was bought by Alt Fund II, an investment fund managed by alternative investment platform Alt. In fact, Alt Fund II actually bought 51% majority ownership of the card at a valuation of $5.9 Million. So the literal amount of $5.9 Million was not traded in this transaction. This kind of fractional ownership is similar to traditional startup investment, where an investment fund buys a percentage ownership stake in a company at a certain valuation. However, this is not such a common practice in the sports cards world."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx38", "type": "plain", "value": "The sale is a landmark event signalling the maturity and sophistication of the sports cards industry, particularly when viewed as an investment asset for serious investors. In a press release, Alt's Co-Founder & CEO Leore Avidar describes his bullish thesis:"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx39", "type": "plain", "style": "italic", "value": "\"Our data shows that Steph's cards have increased 35% in value YTD--compare that to the S&P and you can see outsized revenue potential...We're anchoring Alt Fund II to this purchase and have built a thesis with this asset at its core.\""}
+                    ]
+                }                             
+            ]
+        },
+        {
+            "section":[
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-6-movements-events-and-more-nil-and-the-new-buisness",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🤑 Movements, Events, and More: NIL and The New Business of College Athletes"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx40", "type": "plain", "value": "Just over a week ago, the US Supreme Court ruled that NCAA college athletes would finally be allowed to profit from their Name, Image, and Likeness (NIL). College athletes, some of whom have millions of social media followers, can now access similar commercial opportunities as professional athletes in major leagues. The floodgates have been opened for a new era of college sports commercialisation."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx41", "type": "plain", "value": "When this latest ruling became official on July 1, many college athletes immediately signed deals with brands. These ranged from new brand endorsements to merchandise sales to appearances on the celebrity shoutout app Cameo. GoPuff and Opendorse partnered to create a college athlete endorsement program, offering every single college athlete in the country their first sponsorship deal. Barstool Sports created a new program called 'Barstool Athletes,' allowing all college athletes around the country to join and share in commercial deals."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx42", "type": "plain", "value": "Tennessee State freshman (and son of Master P) Hercy Miller signed a deal with tech company Web Apps America for $2 Million. Other athletes have started side music careers, like Marshall offensive lineman Will Ulmer. Here's an example of an exceptionally enterprising college athlete, Miami QB D'Eriq King:"}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/da6aa1c8-dc9b-4152-8197-8d3dd44a7f31/954x1644.png"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx43", "type": "plain", "value": "While the most famous athletes can grab headlines and the biggest deals, there's also a long tail of athletes who are less famous but can still profit from the NIL ruling. There are several new startups hoping to connect brands with athletes, such as Opendorse, Dreamfield, and Marketpryce. Opendorse facilitated over 1,000 deals on July 1, most of which were endorsements between $50 and $500."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx44", "type": "plain", "value": "While the most famous athletes can grab headlines and the biggest deals, there's also a long tail of athletes who are less famous but can still profit from the NIL ruling. There are several new startups hoping to connect brands with athletes, such as Opendorse, Dreamfield, and Marketpryce. Opendorse facilitated over 1,000 deals on July 1, most of which were endorsements between $50 and $500."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx45", "type": "plain", "value": "For car dealerships in Alabama to regional fast food chains in the Midwest to small businesses in Kansas, college athletes are now a new target for any type of sponsorship deal. You could categorize 'college athletes' as a new marketing channel for your company. And it allows every college athlete to become an entrepreneur, if they want to."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx46", "type": "plain", "value": "We're particularly interested in how college athletes will affect the world of collectibles - sneakers, trading cards, and NFTs. Let's say Nike or Adidas want to create a new shoe collection based on college athletes. Nike famously created the 'Be True to Your School' Nike Dunk campaign in the 1980s based on colorways matching specific schools. Why not create a new line of university specific shoes and get the most famous athletes from each school to star in promotional content?"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx47", "type": "plain", "value": "Major trading card manufacturers like Topps or Panini could create entirely new ranges of card products for college athletes. For the most popular young athletes in college, you could consider buying their 'college trading card' an even earlier bet on the long term prospects of their career. "}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx48", "type": "plain", "value": "And while the NIL marketplace Dreamfield plans to launch NFTs for athletes, there are still many more opportunities for athletes to release their own NFTs with varying benefits and features for their fans. Considering how early the NFT space is, even for professional athletes, there's still room for a new company to create solid NFT products that could scale across all college athletes."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx49", "type": "plain", "value": "Even more money will continue to flow into sports and the breadth of revenue streams will evolve."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/57b174cc-4b20-4ae0-bf20-1df1c0fff9c7/1160x773.jpeg"
+                    }
+                }                                                                                                           
+            ]
+        }                                
+
+    ]
+}

@@ -1,0 +1,309 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-issue-5",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #5"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-5",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "Goat Sneaker Marketplace valued at $3.7 Billion, The Rise of Formula 1, and PSA Grading Implications"
+                    }
+                }
+            ]
+        },         
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-5-formula-1-content-trading-cards-nfts",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🏎 Formula One: Content, Trading Cards, and NFTs"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx1", "type": "plain", "weight": "regular", "value": "The sport of Formula One racing has entered"},
+                        { "id": "nji6atx2", "type": "link", "url": "https://www.racefans.net/2021/06/19/drive-to-survive-is-creating-avid-new-formula-1-fans-brown/", "value": "a new renaissance"},
+                        { "id": "nji6atx3", "type": "plain", "value": "Part of this can be linked back to the successful Netflix documentary \"Formula One: Drive to Survive,\" which first launched in 2019. McLaren Racing CEO has been quoted as saying,"},
+                        { "id": "nji6atx5", "type": "plain", "style": "italic", "value": "\"It's got to be the single most important impact in North America...almost every comment you get out of someone out of the U.S., they reference Drive to Survive.\""},
+                        { "id": "nji6atx6", "type": "plain", "value": "The sport has found new audiences through new premium content. In a world competing for attention, Netflix has given an edge to a motorsport that has been around for decades."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/c6350bbe-6cc2-4bce-9021-2f3f3a74448d/958x596.png"
+                    }
+                },              
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx06", "type": "plain", "value": "ESPN ratings of Formula 1 are up 50% over the last year and in that same time period Formula 1's social media following has grown by 36% globally. Formula 1 announced an extension of their partnership with sports merchandise retailer Fanatics after online store sales grew by 40% globally in 2020. Formula 1 has hosted an annual race in Austin, TX for many years, and recently confirmed the new addition of a Miami race in 2022. In a world competing for attention, more eyeballs are turning to this global motorsport."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/92419bac-482a-4b1f-aa3e-dad3e155345c/997x487.jpeg"
+                    }
+                },                
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx8", "type": "plain", "value": "With the increasing popularity of Formula 1, prices of trading cards have also gone up and record auction prices have been achieved over the last year. Here are some of the most expensive Formula 1 cards sold this year:"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx9", "type": "plain", "value": "1. 2020 Topps Dynasty Formula 1 - F1 Max Verstappen Autograph Patch Card ($6,150)"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx10", "type": "plain", "value": "2. Lewis Hamilton 2020 - Chrome Formula 1 Orange Refractor ($7,700)"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx11", "type": "plain", "value": "3. 2007-2009 Pro 2.0 Formula 1 - F1 Rookie Card Lewis Hamilton ($4,500)"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx12", "type": "plain", "value": "4. 1984 Panini F1 - Ayrton Senna Toleman-Hart TG183 Formula 1 Rookie Card ($3,000)"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx13", "type": "plain", "value": "Compared to other major sports, you might notice that these Formula 1 card prices are significantly lower. If you can see the growth trajectory of the sport continuing, you might consider Formula 1 trading cards to be a good investment."}
+                    ]
+                },              
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx18", "type": "plain", "value": "For a sport that has been reinventing itself over the past few years, Formula 1 has taken a forward thinking approach to blockchain and NFTs. The very first Formula 1 NFT project began in 2019 (!), in partnership with Animoca Brands. Animoca created a blockchain game called F1 Delta Time and sold the very first digital car collectible for $111,000 in 2019, which was the most expensive NFT sold in 2019. Over the first few months in 2021, Formula 1 teams McLaren and Red Bull Racing have both announced agreements with the Tezos blockchain to build NFTs."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atx19", "type": "plain", "value": "With premium Netflix content, early trading card opportunities, and an increasingly open-minded approach to NFT adoption, Formula 1 is positioning itself as one of the most forward thinking sports leagues."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/e9266085-23c5-482a-906e-096f5458f83a/1200x640.jpeg"
+                    }
+                }                               
+            ]
+        }, 
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-5-latest-news",             
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectibles News"                       
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  {
+                        "id": "journal-issue-5-redit-launches-nft-experiment",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "1 - Reddit launches its own NFT experiment"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl0", "type": "plain", "value": "Reddit has launched its own NFTs called CryptoSnoos, cartoon avatars modelled off the Reddit mascot known as 'Snoo.' Three NFT variations were minted on June 17: the 'Original Block' NFT - modelled after the original Reddit logo, the 'Helium' NFT - associated with contemporary art and the 'Snooprematic' NFT - a mashup of geometric forms. Officially described as an \"experiment\" by Reddit's product team, it's unclear whether this will lead to more extensive NFT projects from the company."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl13", "type": "plain", "value": "Owning this NFT doesn't seem to do anything except institute special status as your avatar on Reddit by giving your profile a special NFT that starts glowing and exhibiting visual characteristics. That's what happens right now, but what could happen in the future? Maybe Reddit could end up increasing the privileges and features associated with owning the NFT?"}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        { "id": "nji6atl15", "type": "plain", "value": "As an online community, Reddit has experimented with virtual currencies and points systems for years, and even tried launching crypto tokens to reward content creators on certain subreddits. With a community of over 430 Million monthly active users, any future Reddit experiments will impact a very large internet audience."}
+
+                    ]                    
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/3aa2bd7d-a241-4164-b91d-3b0466139807/1247x702.png"
+                    }
+                }                                                                         
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-7-sneaker-con-ntwrk-virtual",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "2 - Sneaker Con teams up with NTWRK to go virtual"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        
+                        
+                        { "id": "nji6atl22", "type": "plain", "value": "Sneaker Con has historically been one of the world's biggest sneaker conferences. With the effects of Covid, the event couldn't take place physically. And so Sneaker Con partnered with live shopping app NTWRK to host the first ever virtual Sneaker Con on June 26 and 27. Fans could download the NTWRK app to 'attend' the conference, where content was exclusively hosted. The event was hosted by comedian Hasan Minaj and designer Nick Diamond, who welcomed guests including PJ Tucker, Lil Yachty, and A-Trak. There were several drops of sneakers, art, and other street apparel from a combination of different brands."}
+                        
+                        
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl25", "type": "plain", "value": "NTWRK regularly hosts live shopping events and content around street culture, such as the recent 'Staple Day' hosted last month in honor of designer Jeff Staple. The startup WhatNot employs a similar live shopping mechanism for buying & selling collectibles."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl26", "type": "plain", "value": "Much like Complexland, we're seeing more and more examples of companies hosting their regular conferences in virtual worlds. In the world of street fashion and culture, these virtual festivals have been displaying their own unique brand of virtual creativity. We may see these virtual events become the norm and co-exist with the eventual return of physical events. Either way, each Sneaker Con and Complexland brings us closer to the metaverse."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-5-pokemon-25th-new-cards",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "3 - Pokémon's 25th Anniversary involves new card releases"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl30", "type": "plain", "value": "It is the year of Pokémon's 25th Anniversary and the company is launching a new collection of trading cards called \"Celebrations.\" Nine boxes filled with card packs will be released throughout October, featuring a mixture of special merchandise, new unique cards and reprints of old cards, including the base set Charizard card."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl40", "type": "plain", "value": "The original base set Charizard cards from 1996 are incredibly rare and are the most valuable type of Pokémon card--one was recently sold for a record breaking $369,000. YouTuber Logan Paul famously wore a base set Charizard card around his neck as he walked into the ring for his fight against boxer Floyd Mayweather last month, claiming that the card was worth 'a million dollars.'"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl41", "type": "plain", "value": "These new reissues of the base Charizard cards will likely not command the same prices of the original 1996 base Charizards. However, any enthusiastic Pokémon collector could view these soon-to-be released Charizard cards as a great investment opportunity. Despite not being the 'original' Charizard cards, this 25th Anniversary \"Celebrations\" pack is a special edition product for the Pokémon franchise. Since the 25th Anniversary can only happen once, the market may still attach high value to the rare products that come from this release."}
+                    ]
+                }, 
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/c2c4351c-1fb9-4d41-b112-9d44e1e28a5e/1400x787.jpeg"
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-5-goat-valued-at-3-7-billion",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "4 - Sneaker marketplace Goat is now valued at $3.7 Billion"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl44", "type": "plain", "value": "Online sneaker marketplace Goat just hit a new milestone by raising a $195 Million Series F round of funding at a $3.7 Billion valuation. This is double the $1.8 valuation the company had at their previous funding round in September 2020. Goat shared that their sneaker sales grew 100% and apparel sales grew 500% over the last year. They claim to have 30 million \"members\" and 600,000 sellers on the platform."}        
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl47", "type": "plain", "value": "Goat's biggest rival is Stock X, who also sells similar products and has a similar valuation of $3.8 Billion from earlier this year. Both companies began as sneaker marketplaces but eventually expanded to selling all types of apparel and accessories related to streetwear. In the case of Stock X, the company has also diversified into selling electronics, trading cards, and other collectibles like comic books."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl52", "type": "plain", "value": "This latest news about Goat and Stock X indicates the market's growing confidence in the sneaker market. Goat and Stock X are the two faces of the sneaker resale market, which is expected to hit $30 Billion globally by 2030. Putting aside reselling, Nike--the world's largest sneaker brand--also announced that their Q4 revenue was up 96% year-over-year. Considering the Nike financials and the Goat fundraise, we look forward to an exciting sneaker future."}
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-5-13-million-yu-gi-oh-card-sale",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "5 - The $13 Million Yu-Gi-Oh (almost) record card sale"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl59", "type": "plain", "value": "Japanese entertainment franchise Yu-Gi-Oh is worth an estimated $17 Billion and around $10 Billion of that amount comes from the popular Yu-Gi-Oh trading card game. Similar to Pokémon, highly sought after Yu-Gi-Oh cards can fetch high prices, with the most expensive Black Luster Soldier card known to be worth $2 Million."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl62", "type": "plain", "value": "Last week, it looked like that record would be broken until a Chinese court intervened with legal action. An online auction in China hosted by Alibaba had a rare Blue Eyes White Dragon Yu-Gi-Oh card selling for nearly $13 Million. This card was one of 500 Blue Eyes White Dragon cards, which currently command a rough market value between $31,000 to $46,000."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji6atl65", "type": "plain", "value": "So in this case, the new Yu-Gi-Oh card record was not set. As record prices are being reached for Pokémon cards, baseball cards, and basically every other type of card, the overall card industry might draw more attention from unsavory characters. With so much more money involved, there's an increased need for rigor and security on online marketplaces. Online auction houses have sometimes struggled to deal with counterfeit goods or tech glitches with their platforms. No one is immune from the inherent challenges of auctioning expensive products."}
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

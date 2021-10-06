@@ -1,0 +1,752 @@
+// app global css in SCSS form
+
+@font-face {
+  font-family: montserrat-medium;
+  font-style: normal;
+  font-weight: 500;
+  src: url(./fonts/montserrat-medium-500.woff) format("woff");
+}
+
+@font-face {
+  font-family: montserrat-semi-bold;
+  font-weight: 600;
+  font-style: normal;
+  src: url(./fonts/montserrat-semi-bold-600.woff) format("woff");
+}
+
+@font-face {
+  font-family: montserrat-bold;
+  font-weight: bold;
+  font-style: normal;
+  src: url(./fonts/montserrat-bold-700.woff) format("woff");
+}
+
+@font-face {
+  font-family: montserrat-extra-bold;
+  font-weight: 800;
+  font-style: normal;
+  src: url(./fonts/montserrat-extra-bold800.woff) format("woff");
+}
+
+@mixin flipped-mobile {
+  @media (max-height: #{$flipped-mobile-height}) {
+    @content;
+  }
+}
+
+@mixin extra-small-screen {
+  @media (max-width: #{$small-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin small-screen {
+  @media (min-width: #{$small-width}) and (max-width: #{$medium-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin medium-screen {
+  @media (min-width: #{$medium-width}) and (max-width: #{$large-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin large-screen {
+  @media (min-width: #{$large-width}) {
+    @content;
+  }
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background: black;
+}
+
+.NS_typo {
+  &__inner {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+  }
+  &__large-headline {
+    h1 {
+      font-family: montserrat-extra-bold;
+      font-size: 56px;
+      line-height: 68px;
+      // margin-bottom: 48px;
+
+      @include medium-screen {
+        font-size: 47px;
+        line-height: 57px;
+        // margin-bottom: 40.2px;
+      }
+      @include small-screen {
+        font-size: 44.5px;
+        line-height: 54.1px;
+        // margin-bottom: 38.2px;
+      }
+      @include extra-small-screen {
+        font-size: 34.2px;
+        line-height: 41.6px;
+        // margin-bottom: 29.3px;
+      }
+    }
+
+    h3 {
+      font-family: montserrat-bold;
+      font-size: 28px;
+      line-height: 34px;
+      margin: 63px 0;
+
+      @include small-screen {
+        font-size: 10px;
+        line-height: 34px;
+        margin: 21px 0;
+      }
+
+      @include extra-small-screen {
+        font-size: 10px;
+        line-height: 34px;
+        margin: 21px 0;
+      }
+    }
+
+    p {
+      font-family: montserrat-medium;
+      font-size: 31.5px;
+      line-height: 38.3px;
+
+      @include medium-screen {
+        font-size: 25.1px;
+        line-height: 32px;
+      }
+
+      @include small-screen {
+        font-size: 23.8px;
+        line-height: 30.4px;
+      }
+
+      @include extra-small-screen {
+        font-size: 18.3px;
+        line-height: 23.4px;
+      }
+    }
+  }
+
+  &__regular-headline {
+    h2 {
+      font-family: montserrat-semi-bold;
+      font-size: 42px;
+      line-height: 56px;
+
+      @include medium-screen {
+        font-size: 31.5px;
+        line-height: 42px;
+      }
+
+      @include small-screen {
+        font-size: 30px;
+        line-height: 39px;
+      }
+
+      @include extra-small-screen {
+        font-size: 23px;
+        line-height: 30px;
+      }
+    }
+
+    p {
+      font-family: montserrat-semi-bold;
+      font-size: 30px;
+      line-height: 42px;
+
+      @include medium-screen {
+        font-size: 19px;
+        line-height: 24px;
+      }
+
+      @include small-screen {
+        font-size: 18px;
+        line-height: 22px;
+      }
+
+      @include extra-small-screen {
+        font-size: 15px;
+        line-height: 18px;
+      }
+    }
+
+    img {
+      height: 130px;
+      display: block;
+      margin: auto;
+      @include medium-screen {
+        height: 100px;
+      }
+      @include small-screen {
+        height: 75px;
+      }
+      @include extra-small-screen {
+        height: 50px;
+      }
+    }
+  }
+
+  &__small-headline {
+    h3 {
+      font-family: montserrat-extra-bold;
+      font-size: 30px;
+      line-height: 42px;
+
+      @include medium-screen {
+        font-size: 25.2px;
+        line-height: 35.2px;
+      }
+      @include small-screen {
+        font-size: 23.9px;
+        line-height: 33.4px;
+      }
+      @include extra-small-screen {
+        font-size: 18.3px;
+        line-height: 25.7px;
+      }
+    }
+
+    p {
+      font-family: montserrat-semi-bold;
+      font-size: 15.5px;
+      line-height: 16.5px;
+      @include medium-screen {
+        font-size: 13.5px;
+        line-height: 14.5px;
+      }
+      @include small-screen {
+        font-size: 13.5px;
+        line-height: 14.5px;
+      }
+      @include extra-small-screen {
+        font-size: 12px;
+        line-height: 12px;
+      }
+    }
+  }
+
+  &__paragraph-one {
+    font-family: montserrat-medium;
+    font-size: 21px;
+    line-height: 34px;
+
+    a {
+      color: #fff;
+      text-decoration: underline;
+      &:hover {
+        color: $deep-pink;
+      }
+    }
+
+    @include medium-screen {
+      font-size: 17.6px;
+      line-height: 26px;
+    }
+
+    @include small-screen {
+      font-size: 16.7px;
+      line-height: 21px;
+    }
+
+    @include extra-small-screen {
+      font-size: 15px;
+      line-height: 17px;
+    }
+  }
+
+  &__paragraph-two {
+    font-family: montserrat-bold;
+    font-size: 15.5px;
+    line-height: 30.5px;
+  }
+
+  &__paragraph-three {
+    font-family: montserrat-medium;
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+
+.NS_layout {
+  &__page-full {
+    min-height: 100vh;
+  }
+
+  &__white {
+    background-color: $white;
+  }
+
+  &__scroll-wrap {
+    height: 100vh;
+    overflow-y: scroll;
+    margin: 0px 0px 30px 0px;
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__page-medium {
+    min-height: 85vh;
+  }
+
+  &__section {
+    margin: 0.5vh 4.5vw;
+
+    @include medium-screen {
+      margin: 0.35vh 3vw;
+    }
+
+    @include small-screen {
+      margin: 0.25vh 4.2vw;
+    }
+
+    @include extra-small-screen {
+      margin: 0.1vh 5vw;
+    }
+  }
+
+  &__content {
+    padding: 0.75vh 2vw;
+
+    &.articles {
+      padding: 0 2vw;
+    }
+
+    @include medium-screen {
+      padding: 0.45vh 1vw;
+    }
+
+    @include small-screen {
+      padding: 0vh 0.75vw;
+    }
+
+    @include extra-small-screen {
+      padding: 0vh 0.75vw;
+    }
+  }
+
+  &__input_row {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+
+    &.top {
+      justify-content: end;
+    }
+
+    @include medium-screen {
+      // padding: 0px 5px;
+      margin-top: 45px;
+    }
+
+    @include small-screen {
+      margin-top: 42.6px;
+      margin-bottom: 42.6px;
+    }
+
+    @include extra-small-screen {
+      margin-top: 32.8px;
+      margin-bottom: 32.8px;
+    }
+  }
+
+  &__input-field {
+    padding: 0px 1vw 0px 0px;
+
+    @include medium-screen {
+      // padding: 0px 5px;
+      padding: 0px 1vw 0px 0px;
+    }
+
+    @include small-screen {
+      padding: 0px 1vw 0px 0px;
+    }
+
+    @include extra-small-screen {
+      padding: 1vh 0vw 0px 0px;
+    }
+  }
+}
+
+.NS_feed {
+  &__headline {
+    h3 {
+      font-family: montserrat-bold;
+      font-size: 24px;
+      line-height: 26px;
+      padding-top: 16px;
+      padding-left: 8px;
+      padding-right: 8px;
+
+      @include extra-small-screen {
+        font-size: 22px;
+        line-height: 22px;
+      }
+    }
+  }
+
+  &__content {
+    img {
+      object-fit: contain;
+      width: 100%;
+
+      @include medium-screen {
+        object-fit: cover;
+        max-height: 25vh;
+      }
+      @include small-screen {
+        object-fit: cover;
+        max-height: 25vh;
+      }
+      @include extra-small-screen {
+        object-fit: cover;
+        max-height: 25vh;
+      }
+    }
+
+    .summary {
+      font-family: montserrat-semi-bold;
+      padding: 24px;
+      font-size: 16px;
+    }
+
+    .summary > div {
+      white-space: nowrap;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+
+  &__footer {
+    .large-caption {
+      font-family: montserrat-semi-bold;
+      font-size: 25px;
+      text-transform: capitalize;
+    }
+    .small-caption {
+      font-family: montserrat-medium;
+      font-size: 21px;
+    }
+  }
+}
+
+.NS_img {
+  &__full {
+    min-width: 100%;
+    padding: 50px;
+
+    @include medium-screen {
+      // padding: 25px;
+    }
+    @include small-screen {
+      font-size: 15px;
+      line-height: 20px;
+    }
+  }
+
+  &__medium {
+    width: 50%;
+    margin: auto;
+    padding: 24px;
+
+    @include medium-screen {
+      width: 60%;
+      padding: 20px;
+    }
+
+    @include small-screen {
+      min-width: 70%;
+      padding: 19px;
+    }
+
+    @include extra-small-screen {
+      width: 100%;
+      padding: 14.7px;
+    }
+
+    .image {
+      border-radius: 8px;
+      min-width: 50%;
+      object-fit: scale-down;
+      @include medium-screen {
+        min-width: 60%;
+      }
+      @include small-screen {
+        min-width: 70%;
+      }
+      @include extra-small-screen {
+        width: 100%;
+      }
+    }
+  }
+
+  &__small {
+    width: 192px;
+    height: 192px;
+    display: flex;
+    margin: auto;
+    padding: 16px;
+
+    @include medium-screen {
+      width: 160px;
+      height: 160px;
+      padding: 13.5px;
+    }
+    @include small-screen {
+      width: 150px;
+      height: 150px;
+      padding: 12.5px;
+    }
+    @include extra-small-screen {
+      width: 117px;
+      height: 117px;
+      padding: 10px;
+    }
+  }
+}
+
+.NS_input {
+  &__text-box {
+    background-color: #fff;
+    box-shadow: inset 1px 2px 8px darkgray;
+    overflow: hidden;
+    border-radius: 8px;
+    font-family: "montserrat-semi-bold";
+    width: 100%;
+    height: 54px;
+    font-size: 15.5px;
+
+    @include medium-screen {
+      // height: 33.3px;
+      width: 100%;
+      height: 45.3px;
+      font-size: 13px;
+    }
+
+    @include small-screen {
+      height: 43px;
+      width: 100%;
+      font-size: 12.3px;
+    }
+
+    @include extra-small-screen {
+      height: 33px;
+      width: 100%;
+      font-size: 9.5px;
+    }
+  }
+
+  &__button {
+    font-family: "montserrat-semi-bold";
+    font-size: 15.5px;
+    cursor: pointer;
+    width: 210px;
+    height: 54px;
+    background: #e60088;
+    border-radius: 6px;
+    line-height: 16px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #ffffff;
+
+    @include medium-screen {
+      width: 100%;
+      height: 45.3px;
+      font-size: 13px;
+    }
+
+    @include small-screen {
+      height: 43px;
+      width: 100%;
+      font-size: 12.3px;
+    }
+
+    @include extra-small-screen {
+      height: 33px;
+      width: 100%;
+      font-size: 9.5px;
+    }
+  }
+}
+
+.NS_nav {
+  padding: 1vw 4vw;
+  color: #000;
+  display: flex;
+  background-color: #fff;
+
+  .header-container {
+    @include extra-small-screen {
+      flex-direction: column;
+    }
+  }
+
+  .header_subscribed {
+    display: flex;
+    justify-content: flex-end;
+
+    @include small-screen {
+      justify-content: center;
+    }
+
+    @include extra-small-screen {
+      justify-content: center;
+    }
+  }
+
+  .subscribed-section {
+    width: 49%;
+    @include small-screen {
+      width: 100%;
+    }
+
+    @include extra-small-screen {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+  &__logo {
+    width: 185px;
+
+    @include medium-screen {
+      width: 167.7px;
+    }
+
+    @include small-screen {
+      width: auto;
+    }
+
+    @include extra-small-screen {
+      width: auto;
+    }
+  }
+
+  &__search-field {
+    height: 36px;
+    width: 321px;
+    border-radius: 6px;
+  }
+
+  &__search-field-container {
+    margin-left: 62px;
+    @media screen and (max-width: 700px) {
+      display: none;
+    }
+  }
+
+  &__site-links {
+    ul {
+      display: inline-flex;
+      margin-left: 50px;
+      list-style: none;
+      justify-content: space-between;
+
+      li {
+        cursor: pointer;
+        color: $black;
+        font-family: "montserrat-bold";
+        font-size: 16px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+        @include medium-screen {
+          font-size: 13.4px;
+        }
+        @include small-screen {
+          font-size: 12.7px;
+        }
+        @include extra-small-screen {
+          font-size: 9.8px;
+        }
+      }
+    }
+
+    a {
+      color: $black;
+      text-decoration: none;
+      &:hover {
+        color: $deep-pink;
+      }
+    }
+  }
+}
+
+.NS_footer {
+  &__logo {
+    width: 185px;
+    @include medium-screen {
+      margin: auto;
+    }
+    @include small-screen {
+      margin: auto;
+    }
+    @include extra-small-screen {
+      margin: auto;
+    }
+  }
+
+  &__links {
+    h3 {
+      font-family: montserrat-bold;
+      font-size: 30px;
+      line-height: 30px;
+      color: white;
+      margin-bottom: 16px;
+      text-transform: capitalize;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        font-family: montserrat-bold;
+        font-size: 15.5px;
+        line-height: 28px;
+        color: white;
+        cursor: pointer;
+      }
+    }
+
+    a {
+      color: $black;
+      text-decoration: none;
+      &:hover {
+        color: $deep-pink;
+      }
+    }
+  }
+
+  &__divider {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 2px;
+    background: #2a2c31;
+  }
+
+  &__copyright {
+    font-size: 14px;
+    color: white;
+    @include medium-screen {
+      margin: auto;
+      text-align: center;
+    }
+    @include small-screen {
+      margin: auto;
+      text-align: center;
+    }
+  }
+}

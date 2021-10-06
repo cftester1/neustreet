@@ -1,0 +1,203 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-issue-1",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #1"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-6",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "Welcome to the Neustreet Journal - Your Guide to the Modern Collectiverse!"
+                    }
+                }
+            ]
+        },         
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-1-100-year-old-babe-ruth",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🚀 What We're Buying: 100-Year-Old Babe Ruth & The Importance of Population Data"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        { "id": "nji1atx1", "type": "plain", "weight": "bold",    "value": "Our Neustreet CEO Eric recently bought a 1921 Schapira Bros. Candy Babe Ruth Hand Cut baseball card. "}                        
+                    ]
+                },                
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        { "id": "nji1atx1", "type": "plain", "weight": "bold",    "value": "Key Takeaways:"},
+                        { "id": "nji1atx2", "type": "plain", "weight": "regular", "value": "Older cards from well respected players will most likely have a smaller population than newer cards from younger players. The supply of older cards and the reputation of older players are easier to assess. Keep this in mind when you are deciding the risks and benefits of buying a new sports card. This 1921 Babe Ruth card is a solid buy and Eric is very happy with his purchase. As a collector, he knew that he needed to be careful and his decision was influenced by a variety of factors:"}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/5402933c-c72a-4985-a25a-ed6c8ccb42af/593x1000.jpeg"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atx3", "type": "plain", "weight": "bold",    "value": "As a collector, he knew that he needed to be careful and his decision was influenced by a variety of factors:"}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        {"id": "nji1atl4", "type": "plain", "value": "1. Babe Ruth is one of the greatest baseball players of all time and this specific card has literally been around for 100 years. Over that time period, the card has survived through multiple cycles and its price will likely continue to increase as Babe Ruths prestige as a vintage player continues to increase. Whether its Babe Ruth or Larry Bird or Wayne Gretzky, the likelihood that legendary player cards will increase in value over time is generally higher than new players who still have a long, volatile career ahead of them. Read the Tyler Herro story below to see how young hype can quickly crash. In a bear market for cards, its safer to hold legendary players like Babe Ruth."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl5", "type": "plain", "value": "2. Look at"},
+                        {"id": "nji1atl6", "type": "link", "url": "https://www.psacard.com/cert/15101999", "value": "data from PSAs website"},
+                        {"id": "nji1atl7", "type": "plain", "value":", you can see that the population of this Babe Ruth card is in the single digits, which means there are only a small handful in existence. As such a scarce asset, the value of the card should continue to remain high. It's not very likely that someone secretly owns hundreds of copies of this same card from 1921 and will be able to flood the market. The population should remain consistent and the value should increase steadily."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl8", "type": "plain", "value": "3. On the other hand, PSA currently has a backlog of over 1 million cards to be graded. These cards were all submitted for grading very recently as the trading card market has boomed. It's likely that these backlogged cards will disproportionately come from newer cards of younger players like LaMelo Ball or Zion Williamson. While it's easy to get caught up in young NBA talent, the supply of their graded cards will likely increase once PSA eventually gets through their backlog. There's a greater risk of dilution in the value of younger cards as an increase in a specific card's supply results in a decrease in price."}
+                    ]                    
+                }                                
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-1-latest-news",             
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectibles News"                       
+                    }
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-1-lamelo-ball-dynamic-nfts-dropping-today",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "1 - LaMelo Ball Dynamic NFTs Dropping Today!"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl9", "type": "plain", "value": "Last week, NBA player LaMelo Ball announced his own NFT project"},
+                        {"id": "nji1atl10", "type": "link", "url": "https://www.espn.com/nba/story/_/id/31517207/charlotte-hornets-star-lamelo-ball-releasing-limited-edition-nfts-which-tied-nba-accomplishments", "value": "'LaMelo Ball Collectibles'"},
+                        {"id": "nji1atl11", "type": "plain", "value": " in collaboration with Playground Studios, Ether Cards, and Chainlink. LaMelo is releasing a series of digital collectibles called 'dynamic NFTs,' which are supposed to evolve and update over time based on LaMelo's actual performance in the NBA. Owning these dynamic NFTs will also give people a chance to win special memorabilia and access direct chats with LaMelo himself."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl12", "type": "plain", "value": "This seems much more like a 'fan game' rather than a static NFT of digital art, which is one of the major selling points you can see in their marketing material. Read more at"},
+                        {"id": "nji1atl13", "type": "link", "url": "https://lameloball.io/", "value": "lameloball.io"},
+                        {"id": "nji1atl14", "type": "plain", "value": "and look out for the actual drop happening today, Friday June 4."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl15", "type": "plain", "value": "LaMelo is point guard for the Charlotte Hornets and one of the hottest rookies in the NBA. His rookie cards and NBA Top Shot moments are some of the most expensive on the market. He has enough popularity to launch his own NFT project, which not all NBA players have. Zion Williamson, the number one pick in the 2019 NBA Draft, also recently launched his own NFT project in April, called the"},
+                        {"id": "nji1atl16", "type": "link", "url": "https://opensea.io/collection/slam-x-zion", "value": "Slam x Zion Ccollection"}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl17", "type": "plain", "value": "Fame equals leverage and in the case of these LaMelo Ball Digital Collectibles, LaMelo has a chance to capture greater upside with his own project instead of relying on the broader NBA Top Shot digital collectibles. And for fans and investors, buying the LaMelo Ball dynamic NFTs is essentially making a bet on the future of his career."}
+                    ]                    
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/155ab2e1-6c3a-4d77-a824-279b3716aa20/828x1422.jpg"
+                    }
+                }                                                                             
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-1-panini-and-funko-collaborate-on-new-funko-pop",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "2 - Panini and Funko Collaborate on New Funko Pop! Trading Cards"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl18", "type": "plain", "value": "Panini America is the world's largest licensed sports and entertainment collectibles company, best known for their dominant Prizm trading card brand for the NBA and NFL. Funko is a toy company with a market cap of $1.3 Billion, best known for manufacturing licensed bobbleheads and figurines covering a wide range of pop culture."}                        
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl19", "type": "plain", "value": "These two giants from trading cards and toys have come together to create a new product called the"},
+                        {"id": "nji1atl20", "type": "link", "url": "https://www.prnewswire.com/news-releases/panini-america-and-funko-introduce-new-collectible-for-sports-enthusiasts-funko-pop-trading-card-301300063.html", "value": "Funko Pop! Trading Card"},
+                        {"id": "nji1atl21", "type": "plain", "value": ". This new product is a Funko vinyl figurine modelled after the poses from an athlete's Panini Prizm trading card. Anyone who buys the figurine will also receive an accompanying card. The way this is being positioned is a merging of two collector bases - sports fans and figurine fans. A partnership like this could be a teaser for something bigger."}
+                    ]                    
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl22", "type": "plain", "value": "The product is set to feature six athletes from the NFL and NBA later this year, with the intention to expand to other athletes and sports as time goes on. This Funko x Panini collaboration is like a rare sneaker collab. Whether this partnership fizzles or lasts for decades, this first set of releases is an exciting limited edition."}
+                    ]                    
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "neustreet-journal-1-the-olympics-announces-nft-pins",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "3 - The Olympics Announces Officially Licensed NFT Pins"                     
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes":[
+                        {"id": "nji1atl23", "type": "plain", "value": "The International Olympic Committee (IOC) has partnered with nWay to launch a set of"},
+                        {"id": "nji1atl24", "type": "link", "url": "https://olympics.com/ioc/news/officially-licensed-olympic-nft-pins-announced", "value": "NFT Olympic Pins"},
+                        {"id": "nji1atl25", "type": "plain", "value": "nWay is a subsidiary of"}
+
+                    ]                    
+                }
+            ]
+        }
+    ]
+}

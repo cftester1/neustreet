@@ -1,0 +1,306 @@
+{
+
+    "content": [
+        {
+            
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-issue-2",
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Neustreet Journal - Issue #2"
+                    }                    
+                },                               
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-2",
+                        "type": "h1",
+                        "weight": "bold",
+                        "value": "3.7 Billion Pokémon Cards, Nike Pigeon Dunks, and Logan Paul Wears A Charizard"
+                    }
+                }
+            ]
+        },        
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-2-jeff-staple-nike-pigeon-dunks",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🐦 Sneaker Story: Jeff Staple & The Nike Pigeon Dunks"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji2atx1", "type": "plain", "weight": "regular", "value": "In 2005, a legendary pair of sneakers was released in New York. Police were called into the scene and local media described ‘riots’ occurring between customers trying to buy the sneakers. These shoes were the Nike Pigeon Dunks, which became one of the most popular sneakers releases of all time and helped cement sneaker culture into mainstream consciousness."}
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/070b7ac7-0b45-498c-84d9-b25629dd27e2/2074x1014.png"
+                    }
+                },                
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-2",             
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "The Backstory:"                       
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji3atx5", "type": "plain", "value": "‣ In 2005, Nike commissioned designer Jeff Staple to create a shoe to represent New York to commemorate the anniversary of the Nike Dunks. Four shoes were going to be created to represent four cities - Paris, New York, London, and Tokyo. Staple chose a Pigeon to represent New York City and incorporated the bird into the designs of his Nike shoe. Only 150 pairs of these"},
+                        { "id": "nji3ali1", "type": "link", "url": "https://www.nssmag.com/en/fashion/18286/nike-dunk-sb-pigeon", "value": "Pigeon Dunks" },
+                        { "id": "nji3atxt5", "type": "plain", "value": "were created." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji3atx6", "type": "plain", "value": "‣ On February 22, 2005, the shoes were released and 30 pairs were allocated to Reed Space, Jeff's own store on the Lower East Side of Manhattan. The anticipation for the shoe was so immense that police were called onto the scene to protect customers from armed groups of people who were waiting to rob customers coming out of the store. The incident was captured by media outlets all over New York, with many of them describing the event as a '"},
+                        { "id": "nji3ali2", "type": "link", "url": "https://www.sneakerfreaker.com/news/pigeon-dunk-intervew-snkr-frkr-vault", "value": "sneaker riot" },
+                        { "id": "nji3atxt6", "type": "plain", "value": ".' It was one of the first major news stories outlining the" },
+                        { "id": "nji3ali3", "type": "link", "url": "https://www.sneakerfreaker.com/news/pigeon-dunk-intervew-snkr-frkr-vault", "value": "most passionate and extreme parts of sneaker culture." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx7", "type": "plain", "value": "‣ The Pigeon Dunks were one of the first sneaker releases to command mainstream attention in the news, particularly with regards to the role of resellers. After the Pigeon Dunks' release, many pairs were immediately put up on eBay and commanded prices of $1000 or higher. This was much higher than the original retail price of $200. As only 150 Pigeon Dunks were created, there was huge demand and small supply for the shoe, which set a blueprint that helped encourage a secondary market for sneakers. Currently you can find a pair of size 11 Pigeon Dunks on sale for over" },
+                        { "id": "nji3ali4", "type": "link", "url": "https://stockx.com/nike-dunk-sb-low-staple-nyc-pigeon", "value": "$90,000 on StockX." }
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/c24694e2-6c52-4b20-952b-f1e3bf49770e/1440x1799.png"
+                    }
+                },
+                {
+                    "element": "header",
+                    "attributes":  { 
+                        "id": "journal-issue-2-todays-sneakers-and-nfts",             
+                        "type": "h3",
+                        "weight": "bold",
+                        "value": "Today's Sneakers and NFTs:"                       
+                    }
+                },                               
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx8", "type": "plain", "value": "‣ Earlier this year Jeff Staple became one of the first major streetwear designers to launch an NFT. "},
+                        { "id": "nji3ali5", "type": "link", "url": "https://www.nicekicks.com/jeff-staple-rtfkt-studios-meta-pigeon-nft-physical-sneakers/", "value": "Staple partnered with RTFKT studios" },
+                        { "id": "nji4atxt8", "type": "plain", "value": "to launch a series of 'Meta-Pigeon' NFTs in addition to physical sneakers. There were three specific editions of NFTs each with different colors, price points, and attributes that share similarities with the original Pigeon Dunk. One of the products was a collectable NFT cyber pigeon called 'Metapigeon VR.' Owners of these NFTs could redeem physical sneakers closely resembling the digital version. The items dropped on May 6, 2021 and all sold out within minutes."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx9", "type": "plain", "value": "‣ Not only has the Pigeon Dunk maintained its status as a legendary shoe, but Jeff Staple has adapted to the times by helping pioneer the idea of sneaker NFTs. From designing groundbreaking sneakers in 2005 to launching modern NFTs in 2021, the legendary Jeff Staple has always been at the forefront of sneaker culture." }
+                    ]
+                },
+                {
+                    "element": "image",
+                    "attributes": {
+                        "source": "https://cdn.mcauto-images-production.sendgrid.net/f1ad70ec2ca685a3/04931aad-abe1-44e6-be22-44fb1915dc19/1630x1198.png"
+                    }
+                }  
+                                                                                                                                                                                                                                                                                                           
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-2-latest-in-collectible-news",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "👀 The Latest in Collectible News"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx10", "type": "plain", "weight": "bold", "value": "1 - The Pokémon Company Sold 3.7 Billion Cards Last Year" },
+                        { "id": "nji4atx11", "type": "plain", "value": "The Pokémon Company released its financial results for fiscal year 2020-2021 and they are very impressive. Most notably, the company sold" },
+                        { "id": "nji4atx12", "type": "link", "url": "https://www.nintendolife.com/news/2021/06/the_pokemon_company_sold_a_staggering_3_7_billion_pokemon_cards_last_year", "value": "3.7 Billion cards"},
+                        { "id": "nji4atx13", "type": "plain", "value": "between March 2020 and March 2021. In its entire history, the company has sold 34 Billion Pokémon cards worldwide so roughly 11% of all Pokémon cards ever sold were sold last year." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx14", "type": "plain", "value": "Are these numbers surprising? Pokémon is the" },
+                        { "id": "nji4atx15", "type": "link", "url": "https://www.gamesindustry.biz/articles/2021-03-02-gotta-cash-em-all-how-pok-mon-became-the-worlds-biggest-games-franchise", "value": "world's largest entertainment franchise"},
+                        { "id": "nji4atx16", "type": "plain", "value": "by revenue so you should expect massive scale. 2021 is also the year of Pokémon's" },
+                        { "id": "nji4atx17", "type": "link", "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_25th_Anniversary", "value": "25th Anniversary"},
+                        { "id": "nji4atx18", "type": "plain", "value": ", which has been commemorated by a" },
+                        { "id": "nji4atx19", "type": "link", "url": "https://25.pokemon.com/en-us/", "value": "tremendous marketing and product push"},
+                        { "id": "nji4atx20", "type": "plain", "value": ", including a virtual concert headlined by Post Malone." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx21", "type": "plain", "value": "The increased demand for Pokémon cards has also been reflected by the high prices at which cards are now being sold. A single Charizard card was recently" },
+                        { "id": "nji4atx22", "type": "link", "url": "https://hypebeast.com/2020/12/charizard-pokemon-tcg-goldin-auction-pwcc-ebay-record", "value": "sold for over $350,000"},
+                        { "id": "nji4atx23", "type": "plain", "value": "and a 1999 first edition base set of cards was recently" },
+                        { "id": "nji4atx24", "type": "link", "url": "https://www.reuters.com/article/us-auction-pokemon-idUSKBN2AN1F3", "value": "sold for over $400,000"},
+                        { "id": "nji4atx25", "type": "plain", "value": ". 2021 will be the year of Pokémon." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx26", "type": "plain", "value": "2 - New Space Jam Film Brings Footwear and Merchandise", "weight": "bold" },
+                        { "id": "nji4atx27", "type": "plain", "value": "This week, a" },
+                        { "id": "nji4atx28", "type": "link", "url": "https://www.youtube.com/watch?v=RCsEKvz2mxs", "value": "new trailer"},
+                        { "id": "nji4atx29", "type": "plain", "value": "dropped for the upcoming film" },
+                        { "id": "nji4atx30", "type": "link", "value": "Space Jam: A New Legacy", "url": "https://www.techradar.com/uk/news/space-jam-a-new-legacy-release-date-cast-plot-cameos-and-more", "style": "italic" },
+                        { "id": "nji4atx31", "type": "plain", "value": ", starring NBA player Lebron James. This is a sequel to the original 1996 film" },
+                        { "id": "nji4atx32", "type": "plain", "value": "Space Jam", "style": "italic" },
+                        { "id": "nji4atx33", "type": "plain", "value": ", featuring Chicago Bulls legend Michael Jordan. The 1996 film grossed over $200 Million at the box office and sold over" },
+                        { "id": "nji4atx34", "type": "link", "url": "https://qz.com/2011315/space-jam-a-new-legacy-is-a-massive-merchandising-opportunity/", "value": "$1 Billion worth of merchandise"},
+                        { "id": "nji4atx35", "type": "plain", "value": ". This new Space Jam film is releasing on July 16 and also comes with a big push in footwear and merchandise." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx36", "type": "link", "url": "https://finance.yahoo.com/news/space-jam-legacy-merch-blitz-050030702.html", "value": "Over 200 brands"},
+                        { "id": "nji4atx37", "type": "plain", "value": "are partnering with WarnerMedia to create relevant merchnadise, including swimwear from Vilebrequin, toys like" },
+                        { "id": "nji4atx38", "type": "link", "url": "https://hypebeast.com/2021/5/space-jam-new-legacy-funko-spalding-merchandise-roll-out-warner-bros", "value": "Funko Pop! Figurines" },
+                        { "id": "nji4atx39", "type": "plain", "value": ", and even" },
+                        { "id": "nji4atx40", "type": "link", "url": "https://www.licenseglobal.com/industry-news/warner-bros-cp-reveals-200-space-jam-licensees", "value": "Space Jam Crocs" },
+                        { "id": "nji4atx41", "type": "plain", "value": ". Footwear is a major part of this, as" },
+                        { "id": "nji4atx42", "type": "link", "url": "https://news.nike.com/news/nike-and-converse-space-jam-a-new-legacy-collection-official-images-release-date", "value": "Nike plans to release several shoes" },
+                        { "id": "nji4atx43", "type": "plain", "value": "in line with the film, including three styles of the Nike Lebron 18 Low, the Lebron 19, special Air Force Ones, and a set of Nike Converse." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx44", "type": "plain", "value": "Sneaker culture in 2021 is different from sneaker culture in 1996. Buying, collecting, and selling sneakers is a much more common pursuit today. We can expect these Space Jam shoes will be in high demand and likely command high prices on the resale market. At the same time, the 1996 Space Jam film remains a cult classic and there's no guarantee this new film will be similarly successful. The level of success this new film achieves may also affect the resale price of the new Space Jam shoes and merchandise." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx45", "type": "plain", "weight": "bold", "value": "3 - Stadium Goods + Christie's Create World's Largest Online Sneaker Auction" },
+                        { "id": "nji4atx46", "type": "plain", "value": "Sneaker retailer Stadium Goods and auction house Christie's are linking up to create the largest online sneaker auction ever. The event is called \""},
+                        { "id": "nji4atx47", "type": "link", "url": "https://onlineonly.christies.com/s/original-air-takes-flight-evolution-influence-air-jordan-sneakers/lots/2035?filters=&page=2&searchphrase=&sortby=LotNumber&themes=", "value": "Original Air takes flight: The Evolution and Influence of Air Jordan Sneakers"},
+                        { "id": "nji4atx48", "type": "plain", "value": ".\" 90 rare Air Jordan sneakers will be up for auction, in addition to other Jordan-related merchandise and Air Jordan collabs from artists like Eminem and Drake. All of the items are" },
+                        { "id": "nji4atx49", "type": "link", "url": "https://onlineonly.christies.com/s/original-air-takes-flight-evolution-influence-air-jordan-sneakers/info/1/2035?sc_lang=en", "value": "viewable online"},
+                        { "id": "nji4atx50", "type": "plain", "value": "and the actual bidding will start from June 22 to June 30." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx51", "type": "plain", "value": "In July 2020, Stadium Goods and Christie's" },
+                        { "id": "nji4atx52", "type": "link", "url": "https://www.christies.com/features/Original-Air-Michael-Jordan-Game-Worn-and-Player-Exclusive-Sneaker-Rarities-10794-7.aspx?sc_lang=en", "value": "came together"},
+                        { "id": "nji4atx53", "type": "plain", "value": "to auction off a group of Air Jordans, with the most expensive pair at the event selling for $600,000. Whether it's" },
+                        { "id": "nji4atx54", "type": "link", "url": "https://www.sothebys.com/en/digital-catalogues/kanye-west-grammy-worn-nike-air-yeezy-sample", "value": "Sotheby's" },
+                        { "id": "nji4atx55", "type": "link", "url": "https://fashionunited.uk/news/fashion/christie-s-marks-new-benchmark-for-sneakers-at-auction/2020081750366", "value": "Christie's" },
+                        { "id": "nji4atx56", "type": "plain", "value": ", or" },
+                        { "id": "nji4atx57", "type": "link", "url": "https://www.phillips.com/auctions/auction/NY011118", "value": "Phillips" },
+                        { "id": "nji4atx58", "type": "plain", "value": ", the most august art auction houses in the world are taking sneakers more seriously and the value fetched by sneaker auctions is continuing to increase." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx59", "type": "plain", "value": "4 - Mythical Games Is Latest NFT Company With Massive Fundraise", "weight": "bold" },
+                        { "id": "nji4atx60", "type": "plain", "value": "The LA-based NFT startup"},
+                        { "id": "nji4atx61", "type": "link", "url": "https://mythicalgames.com/", "value": "Mythical Games"},
+                        { "id": "nji4atx62", "type": "plain", "value": "just completed a"},
+                        { "id": "nji4atx63", "type": "link", "url": "https://techcrunch.com/2021/06/09/mythical-games-raises-75m-to-build-an-nft-game-engine/", "value": "$75 Million fundraise"},
+                        { "id": "nji4atx64", "type": "plain", "value": "to build a blockchain gaming platform, which brings their total raised funding to $120 Million. The company's projects include Blankos Block Party, a blockchain social game, and the \"Mythical Economic Engine,\" a game engine to help developers build NFT-based marketplaces." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx65", "type": "plain", "value": "Other major NFT companies have also raised large funding rounds over the previous months based on the increased investor interest in the space. Major NFT marketplace OpenSea" },
+                        { "id": "nji4atx66", "type": "link", "url": "https://techcrunch.com/2021/03/18/nft-marketplace-opensea-raises-23-million-from-a16z/", "value": "raised $23 Million in March"},
+                        { "id": "nji4atx67", "type": "plain", "value": "and blockchain-based gaming company Animoca brands" },
+                        { "id": "nji4atx68", "type": "link", "url": "https://venturebeat.com/2021/05/13/animoca-brands-raises-88-million-at-1-billion-valuation-to-capitalize-on-game-nfts/", "value": "raised $88 Million on a $1 Billion valuation in May"},
+                        { "id": "nji4atx69", "type": "plain", "value": ". While the price of many individual NFTs is currently lower than the more hype-filled sales earlier this year, the overall NFT industry contains many very well funded companies who now have the funding to keep building the future of NFTs." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx70", "type": "plain", "value": "5 - Wayne Gretzky Rookie Card Auctioned Off For $3 Million", "weight": "bold" },
+                        { "id": "nji4atx71", "type": "plain", "value": "Heritage Auctions recently sold a" },
+                        { "id": "nji4atx72", "type": "link", "url": "https://hypebeast.com/2021/5/wayne-gretzky-rookie-card-heritage-auctions-hockey-trading-card-record-selling-price", "value": "1979 PSA 10 Wayne Gretzky Rookie Card for $3.75 Million"},
+                        { "id": "nji4atx73", "type": "plain", "value": "This sets the record for the highest valued ice hockey trading card ever sold. This card was previously sold at Heritage Auctions just five months ago for $1.29 Million, which at the time set the record for most expensive hockey trading card. In 2016, the card was sold for $465,000 and in 2011, the card was sold for $94,000. You can trace the rapidly increasing value of this Wayne Gretzky card in line with the growth of the overall trading card industry." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx74", "type": "plain", "value": "Wayne Gretzky is one of the most famous ice hockey players of all time and considered one of the sport's all-time greats. From a collector's perspective, ice hockey is a sport that isn't talked about as much compared to baseball, basketball, or football. While no other hockey player can command Wayne Gretzky prices for their trading card, seeing big auctions like this might increase the number of investors who are looking for opportunities in undervalued NHL cards." }
+
+                    ]
+                }
+            ]
+        },
+        {
+            "section": [
+                {
+                    "element": "header",
+                    "attributes": {
+                        "id": "neustreet-journal-2-movements-events-more",
+                        "type": "h2",
+                        "weight": "bold",
+                        "value": "🥊 Movements, Events, and More"
+                    }
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx75", "type": "plain", "value": "Out of the 3.7 Billion Pokémon cards sold last year, demand was at least partially influenced by one person in particular--the 26-year-old YouTuber Logan Paul. Last Sunday, June 6, Logan Paul fought an exhibition match against Floydd Mayweather, one of the greatest boxers of all time. The fight sold over" },
+                        { "id": "nji4atx76", "type": "link", "url": "https://www.sportspromedia.com/news/mayweather-logan-paul-boxing-fight-ppv-buys-showtime", "value": "one million pay-per-view buys" },
+                        { "id": "nji4atx77", "type": "plain", "value": "on Showtime and is expected to have generated $50 Million in revenue, not including all the separate sponsorship deals arranged by Paul and Mayweather." }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx78", "type": "plain", "value": "As Logan Paul walked into the boxing ring, he wore a first edition Pokémon Charizard card, rated a BGS 10 by grading company Beckett. This card is one of three in the world and in the post-fight conference, Logan said the card is now worth $1 Million. He's probably right. " }
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx79", "type": "plain", "value": "While the most expensive Charizard cards sold most recently fetched a price of" },
+                        { "id": "nji4atx80", "type": "link", "url": "https://hypebeast.com/2020/12/charizard-pokemon-tcg-goldin-auction-pwcc-ebay-record", "value": "$350,000"},
+                        { "id": "nji4atx81", "type": "plain", "value": ", this unique Charizard card worn by Logan Paul to the fight is an incredibly special edition. Logan Paul has previously hosted" },
+                        { "id": "nji4atx82", "type": "link", "url": "https://www.youtube.com/watch?v=iQ-f4N2yzTM", "value": "Pokémon box breaks on his YouTube channel" },
+                        { "id": "nji4atx83", "type": "plain", "value": "that resulted in tens of millions of views and many people have written about" },
+                        { "id": "nji4atx84", "type": "link", "url": "https://www.theloadout.com/pokemon-tcg/prices-popularity-logan-paul", "value": "Logan Paul's effect on the Pokémon card market."}
+                    ]
+                },
+                {
+                    "element": "paragraph",
+                    "attributes": [
+                        { "id": "nji4atx85", "type": "plain", "value": "While one person might not be able to move the entire market, Logan Paul has definitely made a dent in increasing the worldwide popularity of Pokémon cards in 2021." }
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
